@@ -296,7 +296,7 @@ sequenceDiagram
 
 ## 📄 Documentação Completa
 
-Para acessar a proposta completa em formato PDF com todos os detalhes técnicos, diagramas e análises:
+Para acessar a proposta completa em formato PDF com todos os detalhes técnicos, diagramas e análises na pasta `docs`, clique no link abaixo:
 
 👉 **[Download Proposta Completa (PDF)](./docs/proposta-arquitetura.pdf)**
 
